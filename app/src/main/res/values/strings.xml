@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab03</string>
+
+    <string name="uruchom_druga">Uruchom Drugą Aktywność</string>
+    <string name="uruchom_trzecia">Uruchom Trzecią Aktywność</string>
+    <string name="info_odczytania">Odczytana wiadomość</string>
+    <string name="info_przekaz">Przekaż wiadomość</string>
+    <string name="wroc_do_glownej">Wróć do pierwszej aktywności</string>
+    <string name="otworz_strone_www">Otwórz strone kursu ISM</string>
+    <string name="zadzwon">Zadzwoń do Prezydenta</string>
+    <string name="zrob_zdjecie">Zrób zdjęcie</string>
+    <string name="menu_czynnosci">Wybór czynności</string>
+
+</resources>
